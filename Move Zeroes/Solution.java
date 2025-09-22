@@ -11,6 +11,5 @@ class Solution {
         for (int i = p1; i < n; i++){
             nums[i] = 0;
         }
-
     }
 }
